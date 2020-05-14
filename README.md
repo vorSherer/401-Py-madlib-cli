@@ -6,7 +6,7 @@ Deployed URL:    NN
 Running Clients: NN  
 <!-- (e.g., React) -->
 
-Open PR at:      NN
+Open PR at:      https://github.com/vorSherer/401-Py-madlib-cli/pull/1
 Submission PR:   NN
 
 ## Overview
